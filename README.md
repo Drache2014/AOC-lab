@@ -1,1 +1,1 @@
-# AOC-lab
+# AOC1-lab
